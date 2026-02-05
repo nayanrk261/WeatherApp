@@ -1,12 +1,11 @@
 .weather-card {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 35px;
-  border-radius: 25px;
-  max-width: 500px;
-  margin: 30px auto;
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+  background: white;
+  padding: 40px;
+  border-radius: 24px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+  margin-top: 30px;
   animation: slideUp 0.5s ease;
+  border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 @keyframes slideUp {
@@ -21,60 +20,60 @@
 }
 
 .weather-card h2 {
-  font-size: 38px;
-  margin: 0 0 10px 0;
+  font-size: 36px;
+  margin: 0 0 15px 0;
   text-align: center;
-  font-weight: 700;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.weather-card p {
-  font-size: 18px;
-  margin: 10px 0;
-  line-height: 1.6;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 800;
 }
 
 .temperature {
-  font-size: 72px;
+  font-size: 80px;
   font-weight: 900;
   text-align: center;
-  margin: 25px 0;
-  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
-  letter-spacing: -2px;
+  margin: 30px 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
 }
 
 .weather-description {
   text-align: center;
-  font-size: 22px;
+  font-size: 24px;
   text-transform: capitalize;
-  margin: 15px 0 30px 0;
-  opacity: 0.95;
+  color: #666;
+  margin: 20px 0 35px 0;
+  font-weight: 500;
 }
 
 .weather-info {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 15px;
-  margin-top: 25px;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
 }
 
 .info-item {
-  background: rgba(255, 255, 255, 0.2);
-  padding: 20px;
-  border-radius: 15px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 25px;
+  border-radius: 16px;
   text-align: center;
-  backdrop-filter: blur(10px);
-  transition: transform 0.3s ease, background 0.3s ease;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .info-item:hover {
   transform: translateY(-5px);
-  background: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);
 }
 
 .info-label {
   font-size: 13px;
-  opacity: 0.85;
+  color: #666;
   margin-bottom: 8px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -82,16 +81,18 @@
 }
 
 .info-value {
-  font-size: 26px;
-  font-weight: 900;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  font-size: 28px;
+  font-weight: 800;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 /* Responsive */
-@media (max-width: 480px) {
+@media (max-width: 600px) {
   .weather-card {
-    padding: 25px;
-    margin: 20px;
+    padding: 30px 20px;
   }
 
   .weather-card h2 {
@@ -99,15 +100,19 @@
   }
 
   .temperature {
-    font-size: 56px;
+    font-size: 64px;
+  }
+
+  .weather-description {
+    font-size: 20px;
   }
 
   .weather-info {
     grid-template-columns: 1fr;
-    gap: 12px;
+    gap: 15px;
   }
 
   .info-value {
-    font-size: 22px;
+    font-size: 24px;
   }
 }

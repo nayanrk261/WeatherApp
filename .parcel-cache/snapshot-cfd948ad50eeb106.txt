@@ -1,14 +1,18 @@
-3604
+3609
 74C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\safe-buffer134145104618917071 1
 116C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_async_generator_delegate\package.json134145097890359943 0
 97C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\codeframe\src\codeframe.js134145097894443914 0
 96C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\core\src\public\Bundle.js134145097923101887 0
 99C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_class_name_tdz_error134145104766146985 1
+87C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\cache\index.d.ts134145097886693156 0
+84C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\error-overlay134145104631104015 1
+57C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\app.css134147686009748931 0
+79C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\cjs134145104727943120 1
 123C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs134145097898406050 0
 93C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\commander\package-support.json134145097882324816 0
-53C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\src134145096607846532 1
+53C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\src134146959774671017 1
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\JM.js134145097901942784 0
-60C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components134145932313256866 1
+60C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components134146965633683113 1
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\VE.js134145097918607641 0
 105C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\css3-tabsize.js134145097892694265 0
 71C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\get-port134145104607049642 1
@@ -16,17 +20,10 @@
 62C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\package.json134145104766279857 0
 69C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@lezer134145104623675136 1
 78C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\chalk\readme.md134145097881301551 0
-54C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist134146100653514777 1
+54C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist134147690614872856 1
 96C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\transformer-image\LICENSE134145097894230992 0
 73C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\json5\dist134145104661923214 1
-60C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\index.html134145105723425191 0
-112C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\hardwareconcurrency.js134145097899000841 0
-94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\FO.js134145097897381407 0
-105C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\utility-types\dist\aliases-and-guards.d.ts134145097882802227 0
-84C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\browserslist\error.js134145097879321552 0
-119C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json134145097890677743 0
-59C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\style.css134145124854850807 0
-82C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\type-fest\readme.md134145097878614939 0
+60C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\index.html134147688743639074 0
 93C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\chrome-trace-event\LICENSE.txt134145097881202350 0
 95C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_set\package.json134145097895737744 0
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\DE.js134145097893470210 0
@@ -49,7 +46,7 @@
 89C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\cache\src\index.js134145097886415462 0
 91C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\type-fest\source\opaque.d.ts134145097883579818 0
 112C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c134145097885704552 0
-60C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\src\app.js134145124255831726 0
+60C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\src\app.js134146964574501651 0
 81C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\core\spack.js134145097882802227 0
 81C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\core\index.js134145097882435100 0
 70C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\is-glob134145104608961083 1
@@ -245,6 +242,7 @@
 98C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\alt-eu.js134145097883317306 0
 76C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\node-releases134145104613097943 1
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\LT.js134145097903610670 0
+76C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\weathercard.css134147686365518271 0
 113C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1134145098204588659 0
 89C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\react-refresh\package.json134145097881948879 0
 116C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\react-refresh\cjs\react-refresh-runtime.production.js134145097881458820 0
@@ -269,7 +267,7 @@
 68C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\react134145104616659490 1
 79C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\core\src134145104683895844 1
 76C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\chalk\license134145097875877681 0
-70C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\header.js134145113515344127 0
+70C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\header.js134147687053001760 0
 72C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\term-size134145104620711711 1
 98C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\runtime-js\src\helpers\node134145104820856282 1
 68C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\tslib134145104621190388 1
@@ -354,6 +352,12 @@
 85C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\scheduler\package.json134145099453178939 0
 84C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\fs\index.d.ts134145097920425684 0
 88C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\semver\functions\major.js134145097883599880 0
+112C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\hardwareconcurrency.js134145097899000841 0
+94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\FO.js134145097897381407 0
+105C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\utility-types\dist\aliases-and-guards.d.ts134145097882802227 0
+84C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\browserslist\error.js134145097879321552 0
+119C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json134145097890677743 0
+82C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\type-fest\readme.md134145097878614939 0
 103C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\transformer-postcss\package.json134145097892778177 0
 103C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\utility-types\dist\aliases-and-guards.js134145097876465665 0
 86C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\browserslist\error.d.ts134145097882223662 0
@@ -483,7 +487,7 @@
 106C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\css-image-set.js134145097889676016 0
 83C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\LICENSE134145097875837418 0
 110C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_is_native_function\package.json134145097893628460 0
-65C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\index.html134146100419785544 0
+65C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\index.html134147690476969185 0
 90C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\type-fest\source\entry.d.ts134145097882721478 0
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_sliced_to_array134145104788106966 1
 91C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\type-fest\source\except.d.ts134145097882802227 0
@@ -614,7 +618,7 @@
 85C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\supports-color\license134145097875748798 0
 90C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\supports-color\package.json134145097879202231 0
 86C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\semver\functions\neq.js134145097883757004 0
-82C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.3a01df49.css.map134146100420911515 0
+82C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.3a01df49.css.map134147687347836660 0
 106C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\workers\lib\threads\ThreadsChild.js134145097887223224 0
 98C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\alt-af.js134145097882979644 0
 91C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\transformer-json\lib134145104719052663 1
@@ -785,7 +789,7 @@
 105C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_ts_add_disposable_resource134145104791785492 1
 91C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\transformer-node\src134145104720124242 1
 86C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\semver\classes\index.js134145097883136389 0
-73C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\searchbar.js134146100651838461 0
+73C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\searchbar.js134147687195566925 0
 99C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h134145097887230440 0
 86C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\semver\classes\range.js134145097884110781 0
 98C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\xhtml.js134145097922983966 0
@@ -1912,7 +1916,7 @@
 111C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\screen-orientation.js134145097911526161 0
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\SN.js134145097912983292 0
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\SO.js134145097913071511 0
-78C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.3a01df49.css134146100420750866 0
+78C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.3a01df49.css134147687347603783 0
 115C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js134145097902217350 0
 112C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js134145097882089013 0
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\regions\SR.js134145097913308608 0
@@ -2197,7 +2201,7 @@
 86C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\fs\src\index.js134145097918815748 0
 108C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\document-policy.js134145097895647046 0
 118C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\document-scrollingelement.js134145097895647046 0
-77C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.0f77c784.js134146100653311597 0
+77C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.0f77c784.js134147690477960710 0
 105C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\documenthead.js134145097895737744 0
 102C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\maxlength.js134145097903712504 0
 114C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\caniuse-lite\data\features\dom-manip-convenience.js134145097895737744 0
@@ -2481,9 +2485,6 @@
 93C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\src\_defaults.mjs134145097898761295 0
 82C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\ansi-styles\license134145097875767078 0
 88C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\types\assumptions.js134145097876326425 0
-87C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\cache\index.d.ts134145097886693156 0
-84C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\error-overlay134145104631104015 1
-79C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\cjs134145104727943120 1
 108C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js134145097903275787 0
 79C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\esm134145104728230552 1
 91C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\helpers\_\_to_primitive134145104790958109 1
@@ -2882,7 +2883,7 @@
 111C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js134145097897327665 0
 111C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node134145097923316152 0
 85C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@swc\core\binding.d.ts134145097881889489 0
-81C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.0f77c784.js.map134146100653500367 0
+81C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.0f77c784.js.map134147690478214640 0
 116C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc134145097920667844 0
 82C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\events\test134145104687541843 1
 90C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\utils\src\schema.js134145097914790690 0
@@ -2912,6 +2913,7 @@
 84C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\optimizer-svg134145104637303851 1
 86C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\package-manager134145104638148860 1
 83C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\packager-css134145104638625041 1
+71C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\header.css134147689305220393 0
 83C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\packager-svg134145104640383460 1
 100C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\core\test\Environment.test.js134145097927053472 0
 77C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\plugin134145104641167501 1
@@ -3359,6 +3361,7 @@
 103C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\package-manager\lib\index.js.map134145097911322441 0
 88C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\optimizer-swc\src134145104697596218 1
 104C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\optimizer-swc\src\SwcOptimizer.js134145097902567112 0
+71C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\search.css134147690613166218 0
 97C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\optimizer-svg\package.json134145097911770793 0
 88C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\optimizer-svg\src134145104696906934 1
 90C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\@parcel\optimizer-image\lib134145104696275505 1
@@ -3602,4 +3605,6 @@
 104C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\.bin\node-gyp-build-optional-packages.cmd134145098204588659 0
 78C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\.bin\parcel.cmd134145098204588659 0
 94C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\node_modules\.bin\update-browserslist-db.ps1134145098204828136 0
-75C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\weathercard.js134145095851188852 0
+78C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.aa436662.css134147690614790404 0
+82C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\dist\WeatherApp.aa436662.css.map134147690614861213 0
+75C:\Users\windows\OneDrive\Desktop\PROJ\WeatherApp\components\weathercard.js134147687334028072 0

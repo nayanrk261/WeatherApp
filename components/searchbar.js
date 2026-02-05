@@ -1,6 +1,6 @@
 import { useState } from "react";
 import WeatherCard from "./weathercard";
-import "./Search.css";
+import "./search.css";
 
 const Search = () => {
   const [city, setCity] = useState("");
@@ -8,7 +8,7 @@ const Search = () => {
   const [loading, setLoading] = useState(false);      // ← NEW: Track loading state
   const [error, setError] = useState("");             // ← NEW: Store error messages
 
-  
+  const API_KEY = "1ae19adbd2e25cdc2c49ba56ced491ea";
   const API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
   const handleCheck = () => {

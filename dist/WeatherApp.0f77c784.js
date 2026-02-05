@@ -17432,7 +17432,7 @@ try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _headerCss = require("./Header.css");
+var _headerCss = require("./header.css");
 const Header = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "header",
@@ -17489,7 +17489,7 @@ $RefreshReg$(_c, "Header");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./Header.css":"bqfIL"}],"jnFvT":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./header.css":"50BJa"}],"jnFvT":[function(require,module,exports,__globalThis) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -19797,7 +19797,7 @@ function $da9882e673ac146b$var$ErrorOverlay() {
     return null;
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"bqfIL":[function() {},{}],"4LmtH":[function(require,module,exports,__globalThis) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"50BJa":[function() {},{}],"4LmtH":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$65a8 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$65a8.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -19811,7 +19811,7 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _weathercard = require("./weathercard");
 var _weathercardDefault = parcelHelpers.interopDefault(_weathercard);
-var _searchCss = require("./Search.css");
+var _searchCss = require("./search.css");
 var _s = $RefreshSig$();
 const Search = ()=>{
     _s();
@@ -19819,6 +19819,7 @@ const Search = ()=>{
     const [weather, setWeather] = (0, _react.useState)(null); // ← NEW: Store weather data
     const [loading, setLoading] = (0, _react.useState)(false); // ← NEW: Track loading state
     const [error, setError] = (0, _react.useState)(""); // ← NEW: Store error messages
+    const API_KEY = "1ae19adbd2e25cdc2c49ba56ced491ea";
     const API_URL = "https://api.openweathermap.org/data/2.5/weather";
     const handleCheck = ()=>{
         if (!city.trim()) {
@@ -19942,7 +19943,7 @@ $RefreshReg$(_c, "Search");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./weathercard":"44x71","./Search.css":"bquCB"}],"44x71":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","react":"jMk1U","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./weathercard":"44x71","./search.css":"lPoYt"}],"44x71":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$16d1 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$16d1.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
@@ -19953,7 +19954,7 @@ try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
-var _weatherCardCss = require("./WeatherCard.css");
+var _weatherCardCss = require("./weatherCard.css");
 const WeatherCard = ({ data })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "weather-card",
@@ -20125,6 +20126,6 @@ $RefreshReg$(_c, "WeatherCard");
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./WeatherCard.css":"7csnp"}],"7csnp":[function() {},{}],"bquCB":[function() {},{}],"4slL4":[function() {},{}]},["7wZbQ","2R06K"], "2R06K", "parcelRequirea848", {}, null, null, "http://localhost:1234")
+},{"react/jsx-dev-runtime":"dVPUn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","./weatherCard.css":"kfxtc"}],"kfxtc":[function() {},{}],"lPoYt":[function() {},{}],"4slL4":[function() {},{}]},["7wZbQ","2R06K"], "2R06K", "parcelRequirea848", {}, null, null, "http://localhost:1234")
 
 //# sourceMappingURL=WeatherApp.0f77c784.js.map
