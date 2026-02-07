@@ -1,49 +1,70 @@
-.search-container {
-  flex: 1;
-  max-width: 800px;
+/* ========================================
+   SEARCH CONTAINER
+   ======================================== */
+
+.search-wrapper {
+  max-width: 700px;
   margin: 0 auto;
   padding: 40px 20px;
-  width: 100%;
+  animation: fadeIn 0.6s ease;
 }
 
 .search {
   background: white;
   padding: 40px;
-  border-radius: 20px;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
-  margin-top: 5px;
+  border-radius: 24px;
+  box-shadow: 
+    0 10px 40px rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+
+.search:hover {
+  transform: translateY(-4px);
+  box-shadow: 
+    0 20px 60px rgba(0, 0, 0, 0.15),
+    0 0 0 1px rgba(102, 126, 234, 0.1);
+}
+
+/* ========================================
+   SEARCH INPUT
+   ======================================== */
 
 .searchbox {
   margin-bottom: 20px;
-  width: 100%;
 }
 
 .searchbox input {
   width: 100%;
   padding: 18px 24px;
   font-size: 16px;
-  border: 2px solid #e0e0e0;
+  border: 2px solid #e2e8f0;
   border-radius: 12px;
   outline: none;
   transition: all 0.3s ease;
   font-family: inherit;
-  box-sizing: border-box;
+  background: #f7fafc;
 }
 
 .searchbox input:focus {
   border-color: #667eea;
-  box-shadow: 0 0 0 4px rgba(102, 126, 234, 0.1);
+  box-shadow: 
+    0 0 0 4px rgba(102, 126, 234, 0.1),
+    0 4px 12px rgba(102, 126, 234, 0.15);
+  background: white;
 }
 
 .searchbox input::placeholder {
-  color: #999;
+  color: #a0aec0;
 }
+
+/* ========================================
+   BUTTONS
+   ======================================== */
 
 .button-group {
   display: flex;
   gap: 12px;
-  width: 100%;
 }
 
 .search button {
@@ -66,7 +87,7 @@
 
 .search button[type="submit"]:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 25px rgba(102, 126, 234, 0.5);
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5);
 }
 
 .search button[type="submit"]:active {
@@ -74,9 +95,9 @@
 }
 
 .clear-button {
-  background: #f5f5f5;
-  color: #666;
-  border: 2px solid #e0e0e0;
+  background: #f7fafc;
+  color: #718096;
+  border: 2px solid #e2e8f0;
   flex: 0.5;
 }
 
@@ -87,7 +108,10 @@
   transform: translateY(-2px);
 }
 
-/* Status Messages */
+/* ========================================
+   STATUS MESSAGES
+   ======================================== */
+
 .status-message {
   margin-top: 20px;
   padding: 16px 20px;
@@ -98,36 +122,29 @@
   animation: slideDown 0.3s ease;
 }
 
-@keyframes slideDown {
-  from {
-    opacity: 0;
-    transform: translateY(-10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 .loading-message {
-  background: #fff9c4;
+  background: linear-gradient(135deg, #fff9c4 0%, #fff59d 100%);
   color: #f57f17;
   border: 2px solid #ffd54f;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 12px;
 }
 
 .error-message {
-  background: #ffebee;
+  background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
   color: #c62828;
   border: 2px solid #ef5350;
 }
 
+/* ========================================
+   LOADING SPINNER
+   ======================================== */
+
 .loading-spinner {
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
   border: 3px solid #ffd54f;
   border-top: 3px solid #f57f17;
   border-radius: 50%;
@@ -139,10 +156,13 @@
   100% { transform: rotate(360deg); }
 }
 
-/* Responsive */
+/* ========================================
+   RESPONSIVE
+   ======================================== */
+
 @media (max-width: 600px) {
   .search {
-    padding: 25px;
+    padding: 30px 25px;
   }
 
   .button-group {
